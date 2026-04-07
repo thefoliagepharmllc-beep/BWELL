@@ -12,7 +12,7 @@ export default function Home() {
 
       <div style={{ height: "100vh", width: "100vw", overflow: "hidden" }}>
         <iframe
-          src="https://YOUR_BASE44_URL_HERE"
+          src=https://wellness-path-hub.base44.app
           style={{
             border: "none",
             width: "100%",
